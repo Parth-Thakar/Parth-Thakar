@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ze_d_" target="blank"><img src="https://img.shields.io/twitter/follow/ze_d_?logo=twitter&style=for-the-badge" alt="ze_d_" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Linking**
+- 🌱 I’m currently learning **KMP**
 
 - 📫 How to reach me **parththakar59@gmail.com**
 
